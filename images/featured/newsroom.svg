@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="400" fill="#1d3557"/>
+  <rect x="100" y="100" width="1000" height="200" fill="#f1faee" opacity="0.2"/>
+  <rect x="200" y="150" width="200" height="100" fill="#a8dadc" opacity="0.5"/>
+  <rect x="500" y="150" width="200" height="100" fill="#a8dadc" opacity="0.5"/>
+  <rect x="800" y="150" width="200" height="100" fill="#a8dadc" opacity="0.5"/>
+  <text x="600" y="350" font-family="Arial" font-size="42" text-anchor="middle" fill="#f1faee">GlobalNews Newsroom</text>
+</svg>

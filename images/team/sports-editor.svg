@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#1d3557"/>
+  <circle cx="150" cy="100" r="50" fill="#f1faee"/>
+  <circle cx="125" cy="80" r="8" fill="#1d3557"/>
+  <circle cx="175" cy="80" r="8" fill="#1d3557"/>
+  <path d="M 110 105 Q 150 140, 190 105" fill="none" stroke="#1d3557" stroke-width="3"/>
+  <circle cx="150" cy="70" r="10" fill="#a8dadc"/>
+  <text x="150" y="270" font-family="Arial" font-size="24" text-anchor="middle" fill="#f1faee">James Williams</text>
+  <text x="150" y="295" font-family="Arial" font-size="18" text-anchor="middle" fill="#a8dadc">Sports Editor</text>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#1d3557"/>
+  <circle cx="100" cy="100" r="50" fill="none" stroke="#f1faee" stroke-width="3"/>
+  <path d="M 100 50 L 100 150 M 50 100 L 150 100" stroke="#f1faee" stroke-width="3"/>
+  <text x="100" y="180" font-family="Arial" font-size="14" text-anchor="middle" fill="#f1faee">Technology</text>
+</svg>

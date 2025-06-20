@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#2b6777"/>
+  <circle cx="400" cy="225" r="100" fill="#c8d8e4" opacity="0.3"/>
+  <path d="M 400 125 L 400 325 M 300 225 L 500 225" stroke="#ffffff" stroke-width="4"/>
+  <path d="M 450 175 L 400 225 L 450 275" fill="none" stroke="#ffffff" stroke-width="4"/>
+  <path d="M 350 175 L 400 225 L 350 275" fill="none" stroke="#ffffff" stroke-width="4"/>
+  <path d="M 400 175 L 350 225 L 400 275" fill="none" stroke="#ffffff" stroke-width="4"/>
+  <path d="M 400 175 L 450 225 L 400 275" fill="none" stroke="#ffffff" stroke-width="4"/>
+  <text x="400" y="100" font-family="Arial" font-size="36" text-anchor="middle" fill="#ffffff">Renewable Energy Surpasses</text>
+  <text x="400" y="150" font-family="Arial" font-size="30" text-anchor="middle" fill="#ffffff">Fossil Fuels in Europe</text>
+  <text x="400" y="390" font-family="Arial" font-size="24" text-anchor="middle" fill="#ffffff">40.5% of EU Electricity from Renewable Sources</text>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#1d3557"/>
+  <circle cx="150" cy="100" r="50" fill="#f1faee"/>
+  <path d="M 120 90 Q 150 110, 180 90" fill="none" stroke="#1d3557" stroke-width="3"/>
+  <circle cx="125" cy="80" r="8" fill="#1d3557"/>
+  <circle cx="175" cy="80" r="8" fill="#1d3557"/>
+  <path d="M 150 60 C 130 80, 170 120, 150 140" fill="none" stroke="#a8dadc" stroke-width="3"/>
+  <text x="150" y="270" font-family="Arial" font-size="24" text-anchor="middle" fill="#f1faee">Dr. Emily Chen</text>
+  <text x="150" y="295" font-family="Arial" font-size="18" text-anchor="middle" fill="#a8dadc">Health Editor</text>
+</svg>

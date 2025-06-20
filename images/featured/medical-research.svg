@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#457b9d"/>
+  <circle cx="250" cy="225" r="120" fill="#ffffff" opacity="0.2"/>
+  <circle cx="550" cy="225" r="120" fill="#ffffff" opacity="0.2"/>
+  <path d="M 380 225 L 420 225 M 400 205 L 400 245" stroke="#ffffff" stroke-width="8"/>
+  <text x="400" y="100" font-family="Arial" font-size="36" text-anchor="middle" fill="#ffffff">Breakthrough Cancer Treatment</text>
+  <text x="400" y="150" font-family="Arial" font-size="24" text-anchor="middle" fill="#ffffff">Shows Promising Results in Clinical Trials</text>
+  <text x="400" y="370" font-family="Arial" font-size="24" text-anchor="middle" fill="#ffffff">78% of Patients in Complete Remission</text>
+</svg>

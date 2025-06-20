@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#344966"/>
+  <circle cx="160" cy="225" r="70" fill="#0d1821" stroke="#bfcc94" stroke-width="5"/>
+  <circle cx="320" cy="225" r="70" fill="#0d1821" stroke="#f06543" stroke-width="5"/>
+  <circle cx="480" cy="225" r="70" fill="#0d1821" stroke="#598392" stroke-width="5"/>
+  <circle cx="640" cy="225" r="70" fill="#0d1821" stroke="#00a878" stroke-width="5"/>
+  <text x="400" y="100" font-family="Arial" font-size="36" text-anchor="middle" fill="#ffffff">Olympic Committee Announces</text>
+  <text x="400" y="150" font-family="Arial" font-size="30" text-anchor="middle" fill="#ffffff">New Sports for 2028 Games</text>
+  <text x="400" y="390" font-family="Arial" font-size="24" text-anchor="middle" fill="#ffffff">Cricket, Flag Football, and Squash Added to Olympic Program</text>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#2c8c99"/>
+  <circle cx="650" cy="100" r="60" fill="#fcfffd"/>
+  <path d="M 50 250 C 150 150, 350 150, 450 250 S 750 350, 850 250" stroke="#fcfffd" stroke-width="10" fill="transparent"/>
+  <text x="400" y="220" font-family="Arial" font-size="42" text-anchor="middle" fill="#fcfffd">Global Climate Summit</text>
+  <text x="400" y="270" font-family="Arial" font-size="24" text-anchor="middle" fill="#fcfffd">Historic Agreement Reached</text>
+  <rect x="50" y="300" width="700" height="100" fill="#12492f" opacity="0.7"/>
+  <text x="400" y="360" font-family="Arial" font-size="24" text-anchor="middle" fill="#fcfffd">World leaders pledge to reduce carbon emissions by 50% by 2030</text>
+</svg>

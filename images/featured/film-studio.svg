@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="450" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#2d132c"/>
+  <rect x="200" y="100" width="400" height="250" fill="#801336" stroke="#ffffff" stroke-width="3"/>
+  <circle cx="400" cy="225" r="50" fill="#ee4540"/>
+  <text x="400" y="100" font-family="Arial" font-size="36" text-anchor="middle" fill="#ffffff">Major Film Studio Announces</text>
+  <text x="400" y="150" font-family="Arial" font-size="30" text-anchor="middle" fill="#ffffff">Ambitious New Franchise</text>
+  <text x="400" y="390" font-family="Arial" font-size="24" text-anchor="middle" fill="#ffffff">Five-Film Saga with $1 Billion Budget</text>
+</svg>

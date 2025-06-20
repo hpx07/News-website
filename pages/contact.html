@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us | GlobalNews</title>
+    <meta name="description" content="Get in touch with the GlobalNews team">
+    <link rel="stylesheet" href="../styles/main.css">
+    <link rel="stylesheet" href="../styles/responsive.css">
+    <!-- Adding Feather Icons from CDN -->
+    <script src="https://unpkg.com/feather-icons"></script>
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <div class="logo">
+                <h1><a href="../index.html">GlobalNews</a></h1>
+            </div>
+            <div class="search-bar">
+                <input type="text" id="search-input" placeholder="Search news...">
+                <button id="search-button"><i data-feather="search"></i></button>
+            </div>
+            <nav class="main-nav">
+                <button class="mobile-menu-btn" id="mobile-menu-toggle">
+                    <i data-feather="menu"></i>
+                </button>
+                <ul class="nav-links" id="nav-links">
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="politics.html">Politics</a></li>
+                    <li><a href="business.html">Business</a></li>
+                    <li><a href="technology.html">Technology</a></li>
+                    <li><a href="health.html">Health</a></li>
+                    <li><a href="entertainment.html">Entertainment</a></li>
+                    <li><a href="sports.html">Sports</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html" class="active">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="contact-page">
+            <h1>Contact Us</h1>
+            <p class="contact-intro">We value your feedback and inquiries. Get in touch with the GlobalNews team using any of the methods below.</p>
+            
+            <div class="contact-container">
+                <div class="contact-info">
+                    <h2>Get In Touch</h2>
+                    
+                    <div class="info-item">
+                        <i data-feather="map-pin"></i>
+                        <div>
+                            <h3>Our Address</h3>
+                            <p>123 News Avenue<br>Media District<br>New York, NY 10001<br>United States</p>
+                        </div>
+                    </div>
+                    
+                    <div class="info-item">
+                        <i data-feather="phone"></i>
+                        <div>
+                            <h3>Phone</h3>
+                            <p>Main Office: +1 (212) 555-7890<br>News Tip Line: +1 (212) 555-7891</p>
+                        </div>
+                    </div>
+                    
+                    <div class="info-item">
+                        <i data-feather="mail"></i>
+                        <div>
+                            <h3>Email</h3>
+                            <p>General Inquiries: <a href="mailto:info@globalnews.com">info@globalnews.com</a><br>
+                            News Tips: <a href="mailto:tips@globalnews.com">tips@globalnews.com</a><br>
+                            Careers: <a href="mailto:careers@globalnews.com">careers@globalnews.com</a></p>
+                        </div>
+                    </div>
+                    
+                    <div class="info-item">
+                        <i data-feather="clock"></i>
+                        <div>
+                            <h3>Office Hours</h3>
+                            <p>Monday - Friday: 9:00 AM - 6:00 PM<br>
+                            Saturday: 10:00 AM - 2:00 PM<br>
+                            Sunday: Closed<br>
+                            <em>News desk operates 24/7</em></p>
+                        </div>
+                    </div>
+                    
+                    <div class="info-item">
+                        <i data-feather="users"></i>
+                        <div>
+                            <h3>Follow Us</h3>
+                            <div class="contact-social-icons">
+                                <a href="#" aria-label="Facebook"><i data-feather="facebook"></i></a>
+                                <a href="#" aria-label="Twitter"><i data-feather="twitter"></i></a>
+                                <a href="#" aria-label="Instagram"><i data-feather="instagram"></i></a>
+                                <a href="#" aria-label="YouTube"><i data-feather="youtube"></i></a>
+                                <a href="#" aria-label="LinkedIn"><i data-feather="linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="contact-form">
+                    <h2>Send Us a Message</h2>
+                    <form id="contact-form">
+                        <div class="form-group">
+                            <label for="name">Your Name</label>
+                            <input type="text" id="name" name="name" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="email">Your Email</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="subject">Subject</label>
+                            <input type="text" id="subject" name="subject" required>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="message">Your Message</label>
+                            <textarea id="message" name="message" rows="6" required></textarea>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label>
+                                <input type="checkbox" name="subscribe" id="subscribe">
+                                Subscribe to our newsletter
+                            </label>
+                        </div>
+                        
+                        <button type="submit" class="submit-btn">Send Message</button>
+                    </form>
+                </div>
+            </div>
+            
+            <div class="map-container">
+                <!-- Using a placeholder for the map since we can't embed actual maps -->
+                <div style="width:100%; height:100%; display:flex; align-items:center; justify-content:center; background-color:#f0f0f0; color:#666; text-align:center;">
+                    <div>
+                        <i data-feather="map" style="width:48px; height:48px; margin-bottom:10px;"></i>
+                        <p>Interactive map would be displayed here</p>
+                        <p>GlobalNews Headquarters<br>123 News Avenue, New York, NY 10001</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="contact-departments">
+            <h2>Department Contacts</h2>
+            <div class="departments-grid">
+                <div class="department-card">
+                    <h3>Editorial</h3>
+                    <p>For story pitches, corrections, and editorial feedback</p>
+                    <p><a href="mailto:editorial@globalnews.com">editorial@globalnews.com</a></p>
+                </div>
+                
+                <div class="department-card">
+                    <h3>Advertising</h3>
+                    <p>For advertising opportunities and media kit requests</p>
+                    <p><a href="mailto:advertising@globalnews.com">advertising@globalnews.com</a></p>
+                </div>
+                
+                <div class="department-card">
+                    <h3>Subscriptions</h3>
+                    <p>For subscription inquiries and customer support</p>
+                    <p><a href="mailto:subscriptions@globalnews.com">subscriptions@globalnews.com</a></p>
+                </div>
+                
+                <div class="department-card">
+                    <h3>Press</h3>
+                    <p>For press inquiries about GlobalNews</p>
+                    <p><a href="mailto:press@globalnews.com">press@globalnews.com</a></p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-logo">
+                <h2>GlobalNews</h2>
+                <p>Your trusted source for the latest news</p>
+            </div>
+            
+            <div class="footer-links">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="../index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-categories">
+                <h3>Categories</h3>
+                <ul>
+                    <li><a href="politics.html">Politics</a></li>
+                    <li><a href="business.html">Business</a></li>
+                    <li><a href="technology.html">Technology</a></li>
+                    <li><a href="health.html">Health</a></li>
+                    <li><a href="entertainment.html">Entertainment</a></li>
+                    <li><a href="sports.html">Sports</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-social">
+                <h3>Follow Us</h3>
+                <div class="social-icons">
+                    <a href="#" aria-label="Facebook"><i data-feather="facebook"></i></a>
+                    <a href="#" aria-label="Twitter"><i data-feather="twitter"></i></a>
+                    <a href="#" aria-label="Instagram"><i data-feather="instagram"></i></a>
+                    <a href="#" aria-label="YouTube"><i data-feather="youtube"></i></a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <p>&copy; 2023 GlobalNews. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <div id="search-results" class="search-results">
+        <div class="search-results-container">
+            <div class="search-header">
+                <h3>Search Results</h3>
+                <button id="close-search"><i data-feather="x"></i></button>
+            </div>
+            <div id="search-results-list"></div>
+        </div>
+    </div>
+
+    <script src="../scripts/data.js"></script>
+    <script src="../scripts/search.js"></script>
+    <script src="../scripts/main.js"></script>
+    <script>
+        // Initialize Feather icons
+        feather.replace();
+    </script>
+</body>
+</html>

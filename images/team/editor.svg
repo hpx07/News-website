@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="300" fill="#1d3557"/>
+  <circle cx="150" cy="100" r="50" fill="#f1faee"/>
+  <path d="M 100 180 Q 150 230, 200 180" fill="none" stroke="#f1faee" stroke-width="5"/>
+  <circle cx="125" cy="90" r="10" fill="#1d3557"/>
+  <circle cx="175" cy="90" r="10" fill="#1d3557"/>
+  <text x="150" y="270" font-family="Arial" font-size="24" text-anchor="middle" fill="#f1faee">Jane Smith</text>
+  <text x="150" y="295" font-family="Arial" font-size="18" text-anchor="middle" fill="#a8dadc">Editor-in-Chief</text>
+</svg>
