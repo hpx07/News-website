@@ -1,30 +1,52 @@
-<h1> Main Project 2</h1>
+# 📰 News Website ![Build](https://img.shields.io/badge/status-in%20progress-yellow) ![HTML](https://img.shields.io/badge/built%20with-HTML5-orange) ![CSS](https://img.shields.io/badge/styling-CSS3-blue) ![JavaScript](https://img.shields.io/badge/script-JavaScript-yellow)
 
-
-<h2> 📰 News Website 📡 </h2>
-
-A clean, modern **News Website** built with **HTML**, **CSS**, and **JavaScript**.  
-This project simulates a simple news portal with responsive design, sections for headlines, and smooth user experience — perfect for portfolios, academic, or practice use.
-
-> Created by [@hpx07](https://github.com/hpx07)
-> Project is live at - https://hpx07.github.io/News-website/
----
-
-## 🚀 Features
-
-- 📱 Responsive layout for all devices
-- 📰 Stylish news cards and grid sections
-- 💡 Clean and minimal UI with CSS
-- ⚡ JavaScript-enabled interactivity (scroll, toggle, etc.)
-- 📚 Can be extended to use real APIs in the future
+A modern **News Website** built with HTML, CSS, and JavaScript — responsive, clean, and ideal for academic or portfolio use.
 
 ---
 
-## 📁 Project Structure
+## 📦 Installation
 
-News-website/ <br>
-├── index.html <br>
-├── style.css<br>
-├── script.js<br>
-└── assets/<br>
-└── images/<br>
+Please follow these steps to run the project locally on your machine:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/hpx07/News-website.git
+cd News-website
+```
+
+### 2. Open in Browser
+
+You can either:
+- Run this in terminal:
+  ```bash
+  start index.html
+  ```
+- Or double-click `index.html` manually
+
+---
+
+## 🧰 Project Structure
+
+```plaintext
+News-website/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    └── images/
+```
+
+---
+
+## 🚀 Live Demo
+
+🔗 [View Live](https://hpx07.github.io/news-website/)
+
+---
+
+## 🙋 Author
+
+**GitHub:** [@hpx07](https://github.com/hpx07)  
+
+---
