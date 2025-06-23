@@ -41,7 +41,7 @@ News-website/
 
 ## 🚀 Live Demo
 
-🔗 [View Live](https://hpx07.github.io/news-website/)
+🔗 [View Live](https://hpx07.github.io/News-website/)
 
 ---
 
